@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa23724-327e-46bb-9361-6a8a18c6b118" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Index.html" />
-    </list>
+    <list default="true" id="2fa23724-327e-46bb-9361-6a8a18c6b118" name="Default" comment="" />
     <ignored path="Awesomedount.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +58,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="348" />
-    <option name="y" value="96" />
+    <option name="x" value="265" />
+    <option name="y" value="290" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -128,7 +126,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="96" width="1400" height="1000" extended-state="0" />
+    <frame x="265" y="290" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
